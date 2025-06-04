@@ -1,7 +1,5 @@
 # README.md
 
-// filepath: c:\Users\muhammad.najmuddin_u\Documents\fatwa-scrapper\README.md
-
 # Fatwa Scrapper & Telegram Bot
 
 This application scrapes fatwa articles from the Jabatan Mufti Wilayah Persekutuan website and provides a Telegram bot interface for searching and retrieving fatwas. Users can search by keyword, title, or category, and receive results directly in Telegram.
