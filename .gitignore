@@ -1,0 +1,22 @@
+# .gitignore
+// filepath: c:\Users\muhammad.najmuddin_u\Documents\fatwa-scrapper\.gitignore
+
+# Binaries
+fatwa-scrapper
+*.exe
+
+# Environment files
+.env
+
+# Output files
+fatwa.csv
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
